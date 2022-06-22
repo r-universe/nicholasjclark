@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MRFcov"]
+	path = MRFcov
+	url = https://github.com/nicholasjclark/mrfcov
+	shallow = true
+	registered = true
